@@ -8,3 +8,5 @@ Type !help for additional information and to find out the rest of the commands.
 Dependencies
 
 asyncio, yt-dlp, discord
+
+Run it from an ide or console. The main file is bot.py.
